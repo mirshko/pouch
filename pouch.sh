@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+# Copyright (c) 2018-2020 drduh.
+
 set -o errtrace
 set -o nounset
 set -o pipefail
