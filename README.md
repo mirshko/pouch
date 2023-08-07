@@ -9,7 +9,7 @@ Pouch is a _fork_ of [drduh/purse](https://github.com/drduh/Purse) built with [a
 
 ### Note
 
-Passwords can be generated using `openssl` this is likely not as ideal as it could be. Better idea would be to generate a passphrase from the EFF wordlist (Dice-Generated Passphrases) or pull the passphrase generation out of age and use it directly in this.
+Passwords are generated using `openssl` this is likely not as ideal as it could be. Better idea would be to generate a passphrase from the EFF wordlist (Dice-Generated Passphrases) or pull the passphrase generation out of age and use it directly in this.
 
 ## Use
 
