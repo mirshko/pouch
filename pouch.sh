@@ -166,7 +166,6 @@ case "$action" in
 "-r")
   read_pass "$@"
   ;;
-
 "-w")
   new_entry "$@"
   write_pass
